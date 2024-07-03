@@ -9,7 +9,5 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 
 
-### 😂 Random Dev Meme
-<img src='https://file.forms.app/sitefile/funny-developer-memes.jpeg' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
