@@ -10,6 +10,6 @@
 
 
 ### 😂 Random Dev Meme
-<img src='[https://memer-new.vercel.app/](https://file.forms.app/sitefile/funny-developer-memes.jpeg)' style="height: 400px;"/>
+<img src='https://file.forms.app/sitefile/funny-developer-memes.jpeg' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
