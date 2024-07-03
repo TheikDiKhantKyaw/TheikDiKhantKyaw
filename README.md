@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I'm a beginner learner to software development<br>🌱 I’m currently learning JS, Java, Python<br>🤝 I’m looking for help with software development<br>⚡ Fun fact : I need a monitor to look like a real programmer
+🧑‍💻 I'm a beginner learner to software development.<br>🌱 I’m currently learning JS, Java, and Python.<br>🤝 I’m looking for help with software development.<br>⚡ Fun fact : I need a monitor to look like a real programmer.
 
 
 ## 🌐 Socials:
